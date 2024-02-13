@@ -126,8 +126,8 @@ a {
 }
 
 .fade {
-  background: -webkit-gradient(linear, left top, right top, from(rgb(250, 29, 243)), to(rgb(24, 213, 247)));
-  background: linear-gradient(90deg, rgb(250, 29, 243), rgb(24, 213, 247));
+  background: -webkit-gradient(linear, left top, right top, from(rgb(30, 242, 26)), to(rgb(225, 211, 16)));
+  background: linear-gradient(90deg, rgb(30, 242, 26), rgb(225, 211, 16));
 }
 
 .box {
